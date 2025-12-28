@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Next.js on GitHub Pages',
+  title: 'Next.js on GitHub Pages_we here fr',
   description: 'Deploy your static Next.js site to GitHub Pages.',
 };
 

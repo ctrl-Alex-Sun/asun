@@ -1,6 +1,6 @@
-# Deploy Next.js to GitHub Pages
+# Alex Sun
 
-This is a Next.js template which can be deployed to GitHub Pages as a static site.
+Uhhhh.... is it too cheese to put my stuff inside the README file?
 
 ## Deploying to GitHub Pages
 
